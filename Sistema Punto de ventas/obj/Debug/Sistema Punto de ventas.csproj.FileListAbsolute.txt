@@ -1,0 +1,18 @@
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\bin\Debug\Sistema Punto de ventas.exe.config
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\bin\Debug\Sistema Punto de ventas.exe
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\bin\Debug\Sistema Punto de ventas.pdb
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\bin\Debug\Sistema.Punto.Venta.BC.dll
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\bin\Debug\Sistema.Punto.Venta.BE.dll
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\bin\Debug\Sistema.Punto.Venta.BC.pdb
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\bin\Debug\Sistema.Punto.Venta.BE.pdb
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema Punto de ventas.csprojResolveAssemblyReference.cache
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema_Punto_de_ventas.Embarque.resources
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema_Punto_de_ventas.Formularios.FrmMinMax.resources
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema_Punto_de_ventas.Inventario.resources
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema_Punto_de_ventas.FrmLogin.resources
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema_Punto_de_ventas.MenuPrincipal.resources
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema_Punto_de_ventas.Properties.Resources.resources
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema_Punto_de_ventas.Ventas.resources
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema Punto de ventas.csproj.GenerateResource.Cache
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema Punto de ventas.exe
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema Punto de ventas\obj\Debug\Sistema Punto de ventas.pdb

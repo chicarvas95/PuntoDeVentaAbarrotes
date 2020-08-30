@@ -1,0 +1,4 @@
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Modelos\bin\Debug\Modelos.dll
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Modelos\bin\Debug\Modelos.pdb
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Modelos\obj\Debug\Modelos.dll
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Modelos\obj\Debug\Modelos.pdb

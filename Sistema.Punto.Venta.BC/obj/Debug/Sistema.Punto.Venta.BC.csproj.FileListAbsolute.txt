@@ -1,0 +1,7 @@
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema.Punto.Venta.BC\bin\Debug\Sistema.Punto.Venta.BC.dll
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema.Punto.Venta.BC\bin\Debug\Sistema.Punto.Venta.BC.pdb
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema.Punto.Venta.BC\bin\Debug\Sistema.Punto.Venta.BE.dll
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema.Punto.Venta.BC\bin\Debug\Sistema.Punto.Venta.BE.pdb
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema.Punto.Venta.BC\obj\Debug\Sistema.Punto.Venta.BC.csprojResolveAssemblyReference.cache
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema.Punto.Venta.BC\obj\Debug\Sistema.Punto.Venta.BC.dll
+C:\Users\CRRODR2\Documents\Visual Studio 2015\Projects\Sistema Punto de ventas\Sistema.Punto.Venta.BC\obj\Debug\Sistema.Punto.Venta.BC.pdb
